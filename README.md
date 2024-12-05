@@ -36,4 +36,4 @@ The dashboard is built with modern web technologies, ensuring seamless interacti
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Seesonn/Edashboard.git
