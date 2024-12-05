@@ -359,10 +359,6 @@
   }
 
 
-
-
-  /* ... (previous styles remain unchanged) ... */
-
 /* Dashboard Content Styles */
 .dashboard-stats {
     display: grid;
@@ -435,4 +431,3 @@
     color: #2d3748;
   }
   
-  /* ... (rest of the styles remain unchanged) ... */
